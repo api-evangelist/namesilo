@@ -47,15 +47,15 @@ common:
     url: https://www.namesilo.com/
   - type: Documentation
     url: https://www.namesilo.com/api-reference
-  - type: Sign Up
+  - type: SignUp
     url: https://www.namesilo.com/account/api-manager
   - type: Pricing
     url: https://www.namesilo.com/pricing
   - type: Support
     url: https://www.namesilo.com/support
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.namesilo.com/terms-and-conditions
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.namesilo.com/privacy-policy
 maintainers:
   - FN: Kin Lane
