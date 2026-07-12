@@ -43,6 +43,8 @@ apis:
       - type: MCP Server
         url: https://mcp.namesilo.com
 common:
+  - type: DomainSecurity
+    url: security/namesilo-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/namesilo
   - type: LinkedIn
