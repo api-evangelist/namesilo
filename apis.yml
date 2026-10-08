@@ -66,6 +66,12 @@ apis:
       - type: MCP Server
         url: https://mcp.namesilo.com
 common:
+  - type: Plans
+    url: plans/namesilo-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/namesilo-rate-limits.yml
+  - type: FinOps
+    url: finops/namesilo-finops.yml
   - url: https://www.namesilo.com/blog
     type: Blog
   - type: DomainSecurity
